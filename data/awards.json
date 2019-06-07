@@ -1,11 +1,6 @@
 {"awards":
     [
-        {
-            "name": "President's Fund for Undergraduate Scholars",
-            "venue": "The Pennsylvania State University",
-            "year": 2018,
-            "value": "~$3000"
-        },
+        
         {
             "name": "Graduate Research Fellowship",
             "venue": "National Science Foundation (NSF)",
@@ -23,6 +18,12 @@
             "venue": "Computational Cognitive Neuroscience (CCN)",
             "year": 2018,
             "value": "$275"
+        },
+        {
+            "name": "President's Fund for Undergraduate Scholars",
+            "venue": "The Pennsylvania State University",
+            "year": 2012,
+            "value": "~$3000"
         }
     ]
 }

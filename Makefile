@@ -25,7 +25,7 @@ CV_WEBSITE = $(WEBSITE_DIR)/docs/pages/curriculumvitae.html
 CV_CSS = $(CV_DIR)/style/cv.css
 WEBSITE_CV_CSS = $(WEBSITE_DIR)/content/assets/css/cv.css
 
-.PHONY: default generate stage build stageprint prepwebsite buildwebsite
+.PHONY: default generate stage build stageprint prepwebsite buildwebsite push cvpush
 
 # make the html file
 generate:
@@ -51,4 +51,14 @@ prepwebsite:
 # build, then publish the website
 buildwebsite: build prepwebsite stageprint
 
+websitepush: 
+	git -C $(WEBSITE_DIR) add $(WEBSITE_MD) $(WEBSITE_DATE)
+	git -C $(WEBSITE_DIR) commit -m "Update cv."
+	git -C $(WEBSITE_DIR) push
 
+cvpush:
+	git add $(WEBSITE_MD) $(WEBSITE_DATE)
+	git commit -m "Update cv."
+	git push
+
+buildpushall: buildwebsite cvpush
