@@ -1,0 +1,51 @@
+{"research":
+    [
+        
+        {
+            "Organization": "University of California, San Diego",
+            "lab": "Auditory Neurscience Laboratory",
+            "location": "La Jolla, CA",
+            "advisor": "Timothy Q Gentner",
+            "start": "2015",
+            "end": "now",
+            "title": "PhD Student"
+        },
+        {
+            "Organization": "Space and Naval Warfare Systems Center",
+            "lab": "Machine learning and Artificial Perception Laboratory",
+            "location": "San Diego, CA",
+            "advisor": "Benjamin Migliori",
+            "start": "2016",
+            "end": "2017",
+            "title": "Student Contractor"
+        },
+        {
+            "Organization": "Applied Research Laboratory",
+            "lab": "Cognitive Perception and Computational Intelligence Laboratory",
+            "location": "State College, PA",
+            "advisor": "John Sustersic and Brad Wyble",
+            "start": "2015",
+            "title": "R&#38;D Engineer"
+        },
+        {
+            "Organization": "Budongo Conservation Field Center",
+            "lab": "Waibira Research Project",
+            "location": "Budongo Forest, Uganda",
+            "advisor": "Catherine Hobaiter",
+            "start": "2014",
+            "title": "Field Research Technician"
+        },
+        {
+            "Organization": "The Pennsylvania State University",
+            "lab": "Comparative Communication Laboratory",
+            "location": "State College, PA",
+            "advisor": "Daniel Weiss",
+            "start": "2012",
+            "end": "2014",
+            "title": "Research Assistant"
+        }
+           
+    ]
+}
+
+

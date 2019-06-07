@@ -1,0 +1,473 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"y",
+				"y_sinus_um_transform"
+			],
+			[
+				"save",
+				"save_loc"
+			],
+			[
+				"full",
+				"fully_connected_network"
+			],
+			[
+				"z",
+				"z"
+			],
+			[
+				"norma",
+				"normalized_mutual_info_score"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "cv.css",
+			"settings":
+			{
+				"buffer_size": 6345,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sub",
+				"Sublack: Format file"
+			],
+			[
+				"subla",
+				"Sublack: Format file"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"sublack",
+				"Sublack: Format file"
+			],
+			[
+				"format",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"spac",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"black",
+				"Sublack: Format file"
+			],
+			[
+				"sublac",
+				"Sublack: Format file"
+			],
+			[
+				"subl",
+				"Sublack: Format file"
+			],
+			[
+				"preferences:ana",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"anaconda: next",
+				"Anaconda: Next lint error"
+			],
+			[
+				"linter",
+				"SublimeLinter: Toggle Highlights"
+			],
+			[
+				"",
+				"File: Save All"
+			],
+			[
+				"pep",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"docst",
+				"Anaconda: Display object docs"
+			],
+			[
+				"auto",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"preferences",
+				"Preferences: Settings"
+			],
+			[
+				"pep8",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"package:",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 462.0,
+		"history":
+		[
+			"linter",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/gentner/tsainbur/Projects/github_repos/curriculumvitae"
+	],
+	"file_history":
+	[
+		"/Volumes/gentner/tsainbur/Projects/github_repos/tsainbur_cv/cv2.yaml",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/tsainbur_cv/attic/github-info.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/tsainbur_cv/appveyor.yml",
+		"/Users/tsainbur/Downloads/Duet codes H for R.csv",
+		"/Users/tsainbur/Downloads/jjvgbzdzjxqfydfhwgsnqjwrvtmxkzkm/parallels.bbl",
+		"/Users/tsainbur/Downloads/silbido-filefmt/java/tonals/tonal.class",
+		"/Volumes/gentner/lintu_cron/websitebehavior/custom_plotting/tims.py",
+		"/Volumes/gentner/lintu_cron/websitebehavior/website_update_utils.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/AVGN_419/AVGN/avgn/datasets/OLD-segment_wav_from_textgrid.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/AVGN_419/AVGN/avgn/networks/vae.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/AVGN_419/AVGN/avgn/networks/wgan.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/AVGN_419/avgn/avgn/magenta/nsynthutils.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/AVGN_419/avgn/avgn/networks/gaia.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/AVGN_419/avgn/networks/._gaia.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/AVGN_419/avgn/networks/gaia.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/AVGN_419/AVGN/avgn/networks/utils.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/AVGN_419/AVGN/avgn/networks/mdsae.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/AVGN_419/AVGN/avgn/networks/gan.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/AVGN_419/AVGN/avgn/magenta/nsynthreader.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/AVGN_419/AVGN/avgn/networks/test_datasets.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/AVGN_419/AVGN/avgn/magenta/magenta-liscense.txt",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/AVGN_419/AVGN/avgn/networks/sample_networks.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/AVGN_419/AVGN/avgn/magenta/nsynthutils.py",
+		"/Users/tsainbur/Documents/nsynthutils.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/AVGN_419/AVGN/avgn/networks/gaia.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/AVGN_419/AVGN/avgn/networks/seq2seq.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/AVGN_419/AVGN/avgn/datasets/create_tfrecord.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/AVGN_419/AVGN/avgn/utils/timeouts.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/AVGN_419/AVGN/avgn/segment_song/wav_to_syllables.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/AVGN_419/AVGN/avgn/spectrogramming/spectrogramming.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/AVGN_419/AVGN/avgn/segment_song/preprocessing.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/parallels_paper_st/parallelspaper_refactored/parallelspaper/config/paths.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/generativevocalizationnetwork/src/segment_song/wav_to_syllables.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/gvn/avgn/segment_song/wav_to_syllables.pyc",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/parallels_paper_st/parallelspaper_refactored/parallelspaper/birdsong_datasets.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/pyoperant/pyoperant/interfaces/open_ephys_.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/example_bird_config/README.md",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/example_bird_config/B999/config.json",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/pyoperant/scripts/behave",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/pyoperant/pyoperant/behavior/base.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/parallels_paper/parallelspaper/birdsong_datasets_old.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/parallels_paper/parallelspaper/speech_datasets.py",
+		"/Users/tsainbur/Downloads/test2.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/timsainburg_dot_com/timsainburg.com/pelicanconf.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/timsainburg_dot_com/timsainburg.com/publishconf.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/timsainburg_dot_com/timsainburg.com/pelican-themes/Flex-TS/templates/archives.html",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/timsainburg_dot_com/timsainburg.com/pelican-themes/Flex-TS/templates/index.html",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/timsainburg_dot_com/timsainburg.com/pelican-themes/Flex-TS/templates/partial/copyright.html",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/timsainburg_dot_com/timsainburg.com/pelican-themes/Flex-TS/templates/partial/statuscake.html",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/timsainburg_dot_com/timsainburg.com/pelican-themes/Flex-TS/templates/partial/flex.html",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/timsainburg_dot_com/timsainburg.com/pelican-themes/Flex-TS/static/stylesheet/style.min.css",
+		"/Users/tsainbur/Downloads/test.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/timsainburg_dot_com/timsainburg.com/pelican-themes/Flex-TS/templates/base.html",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/timsainburg_dot_com/timsainburg.com/pelican-themes/Flex-TS/static/stylesheet/style.less",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/timsainburg_dot_com/timsainburg.com/pelican-themes/Flex-TS/docs/blog/theme/stylesheet/style.min.css",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/timsainburg_dot_com/timsainburg.com/pelican-themes/Flex-TS/docs/blog/theme/stylesheet/style.less",
+		"/Users/tsainbur/Desktop/test.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/parallels_paper/parallelspaper/model_fitting.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/parallels_paper/parallelspaper/models.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/parallels_paper/parallelspaper/hvc_funcs.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/parallels_paper/parallelspaper/birdsong_datasets.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/parallels_paper/parallelspaper/utils.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/py-behaviors/py-behaviors/glab_behaviors/cue_probability.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/noisereduction/test_reduction.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/noisereduction/setup.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/noisereduction/environment.yml",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/noisereduction/noisereduce/noisereduce.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/noisereduction/noisereduce/plotting.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/noisereduction/.travis.yml",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/noisereduction/requirements.txt",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/noisereduction/noisereduce/generate_noise.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/noisereduction/noisereduce/__init__.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/parallels_paper/parallelspaper/config/paths.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/parallels_paper/parallelspaper/quickplots.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/parallels_paper/parallelspaper/information_theory.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/parallels_paper/setup.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/birdbrain/setup.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/birdbrain/birdbrain/visualization/plotting_3d.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/birdbrain/birdbrain/visualization/plotting_2d.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/birdbrain/birdbrain/downloading.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/birdbrain/test_environment.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/birdbrain/.travis.yml",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/birdbrain/apt.txt",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/birdbrain/birdbrain/atlas.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/birdbrain/birdbrain/utils.py",
+		"/Volumes/gentner/Datasets/BRAIN_ATLAS/Bat/Mustached_Bat_Atlas/Mustached_Bat_Delineations.atlas.xml",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/birdbrain/assets/csv/canary_regions.csv",
+		"/Volumes/gentner/Datasets/BRAIN_ATLAS/Bat/Mustached_Bat_Atlas/L_Mustached_Bat_Delineations.atlas.xml",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/birdbrain/assets/csv/pigeon_regions.csv",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/birdbrain/assets/csv/zebra_finch_regions.csv",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/birdbrain/README.md",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/starling_atlas/README.md",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/birdbrain/requirements.txt",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/birdbrain/postBuild",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/birdbrain/environment.yml",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/birdbrain/birdbrain/plotting_3d.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/birdbrain/birdbrain/plotting_2d.py",
+		"/Users/tsainbur/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/tsainbur/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/starling_atlas/atlas_code/utils.py",
+		"/Users/tsainbur/Desktop/untitled.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/starling_atlas/atlas_code/tools_3d.py",
+		"/Users/tsainbur/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/starling_atlas/atlas_code/plotting_3d.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/starling atlas/atlas_code/info.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/starling atlas/atlas_code/utils.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/starling atlas/atlas_code/brain_regions.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/BigGan/gaia2/utils.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/generative_models/gmod/models/GAIA.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/generative_models/gmod/plotting.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/generative_models/gmod/models/VAE.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/generative_models/gmod/utils.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/generative_models/gmod/models/introVAE.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/generative_models/gmod/models/VAEGAN2.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/generative_models/gmod/load_spec_from_hdf5.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/generative_models/gmod/models.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/generative_models/gmod/ae.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/animalvocalizationgenerativenet/avgn/spectrogramming/spectrogramming.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/animalvocalizationgenerativenet/avgn/segment_song/utils.py",
+		"/Users/tsainbur/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/tsainbur/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/GAIA-simple/gaia_2d/gaia/gaia.py",
+		"/Users/tsainbur/Library/Application Support/Sublime Text 3/Packages/Python PEP8 Autoformat/pep8_autoformat.sublime-settings",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/BigGan/gaia2/gaia.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/BigGan/gaia/gaia.py",
+		"/Users/tsainbur/Library/Application Support/Sublime Text 3/Packages/User/pep8_autoformat.sublime-settings",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/BigGan/gaia/utils.py",
+		"/Volumes/gentner/tsainbur/Projects/github_repos/BigGan/setup.py"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "cv.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 8,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 90.0
+	},
+	"output.anaconda_documentation":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "",
+	"project": "cv.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

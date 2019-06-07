@@ -1,0 +1,36 @@
+{"teaching":
+    [
+        {
+            "name": "Brain, Behavior, and Evolution",
+            "position": "Teaching Assistant",
+            "location": "University of California, San Diego",
+            "start": 2018
+        },
+        {
+            "name": "Sensory Neuroscience",
+            "position": "Teaching Assistant",
+            "location": "University of California, San Diego",
+            "start": 2018
+        },
+        {
+            "name": "General Psychology",
+            "position": "Teaching Assistant",
+            "location": "University of California, San Diego",
+            "start": 2017
+        },
+        {
+            "name": "Cognitive Psychology",
+            "position": "Teaching Assistant",
+            "location": "University of California, San Diego",
+            "start": 2016
+        },
+
+        {
+            "name": "Biology: Basic Concepts and Biodiversity",
+            "position": "Peer Leader/Tutor",
+            "location": "The Pennsylvania State University",
+            "start": 2013,
+            "end": 2014
+        }
+    ]
+}

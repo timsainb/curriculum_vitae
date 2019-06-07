@@ -1,0 +1,25 @@
+{"presentations":
+    [
+        {
+            "title": "Generative modelling for birdsong: learned acoustic spaces for generating stimuli, labelling syllables, and visualizing sequences",
+            "venue": "Birdsong (SfN Satellite)",
+            "month": 11,
+            "url":"https://www.youtube.com/watch?v=0T2UU8-NCbM", 
+            "year": 2018
+        },
+        {
+            "title": "Learned context dependent categorical perception in a songbird",
+            "venue": "Computational Cognitive Neuroscience (CCN)",
+            "url":"https://www.youtube.com/watch?v=XAU-CKGback", 
+            "month": 9,
+            "year": 2018
+        },
+        {
+            "title": "Analyzing birdsong with neural networks",
+            "venue": "SSC Pacific Workshop on Naval Applications of Machine Learning",
+            "month": 1,
+            "year": 2016
+        }
+
+    ]
+}

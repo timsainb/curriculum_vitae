@@ -1,0 +1,21 @@
+{"conference_papers":
+    [
+        {
+            "authors": "Tim Sainburg, Marvin Thielk, and Timothy Q. Gentner",
+            "title": "Learned context dependent categorical perception in a songbird",
+            "venue": "Computational Cognitive Neuroscience (CCN)",
+            "url":"https://ccneuro.org/2018/Papers/ViewPapers.asp?PaperNum=1147", 
+            "month": 9,
+            "year": 2018
+        },
+        {
+            "authors": "Marvin Thielk, Tim Sainburg, Tatyana Sharpee, and Timothy Q. Gentner",
+            "title": "Combining Biological and Artificial Approaches to Understand Perceptual Spaces for Categorizing Natural Acoustic Signals",
+            "venue": "Computational Cognitive Neuroscience (2018)",
+            "url": "https://ccneuro.org/2018/Papers/ViewPapers.asp?PaperNum=1247",
+            "month": 9,
+            "year": 2018
+        }
+
+    ]
+}

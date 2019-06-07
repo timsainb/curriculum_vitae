@@ -1,0 +1,35 @@
+{"mentorship":
+    [
+        {
+            "name": "Meixuan Jiang",
+            "description": "Undergraduate at UCSD",
+            "project": "Machine Learning/NLP",
+            "start": 2019
+        },
+        {
+            "name": "Yijia Yan",
+            "description": "Undergraduate at UCSD",
+            "project": "Machine Learning/NLP",
+            "start": 2019
+        },
+        {
+            "name": "Jimmy Lozono",
+            "description": "Undergraduate at UCSD",
+            "project": "Songbird behavioral metrics",
+            "start": 2019
+        },
+        {
+            "name": "Darvesh Gorhe",
+            "description": "Undergraduate at UCSD",
+            "project": "Songbird neurobiology",
+            "start": 2016,
+            "end": 2018
+        },
+        {
+            "name": "Hector Ponce",
+            "description": "Undergraduate at UCSD",
+            "project": "Songbird neurobiology",
+            "start": 2017
+        }
+    ]
+}

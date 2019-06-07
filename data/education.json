@@ -1,0 +1,20 @@
+{"education":
+    [
+        {
+            "place": "University of California, San Diego, CA",
+            "start": "2015",
+            "end": "now",
+            "degree": "Ph.D. in Psychology with a Specialization in Anthropogeny",
+            "lab": "Auditory Neuroscience Laboratory",
+            "advisor": "Timothy Q. Gentner"
+        },
+        {
+            "place": "The Pennsylvania State University, State College, PA",
+            "start": "2010",
+            "end": "2014",
+            "degree": "B.A. in Psychology with a Minor in Biology"
+        }
+    ]
+}
+
+

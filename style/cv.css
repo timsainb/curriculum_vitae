@@ -1,0 +1,141 @@
+/*
+@import url(https://fonts.googleapis.com/css?family=Roboto:100,100italic,300,300italic,400,400italic,500,500italic,700,700italic,900,900italic&subset=latin,latin-ext,cyrillic,cyrillic-ext,greek-ext,greek,vietnamese);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300italic,400,400italic,700,700italic&subset=latin,latin-ext,cyrillic-ext,cyrillic,greek-ext,greek,vietnamese);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700&subset=latin,latin-ext,greek-ext,greek,vietnamese,cyrillic,cyrillic-ext);
+*/
+@import url(https://fonts.googleapis.com/css?family=Fira+Sans:100,100italic,300,300italic,400,400italic,500,500italic,700,700italic,900,900italic&subset=latin,latin-ext,cyrillic,cyrillic-ext,greek-ext,greek,vietnamese);
+@import url(https://fonts.googleapis.com/css?family=Fira+Sans+Condensed:300,300italic,400,400italic,700,700italic&subset=latin,latin-ext,cyrillic-ext,cyrillic,greek-ext,greek,vietnamese);
+
+@import url(https://fonts.googleapis.com/css?family=Roboto+Mono:400,100,300,700&subset=latin,latin-ext,greek-ext,greek,vietnamese,cyrillic,cyrillic-ext);
+
+
+.contact_details {
+          
+          font-weight: 400;
+        }
+        #address {
+            width: 40%;
+            display: table-cell;
+        }
+        #contactinfo {
+            width: 60%;
+            display: table-cell;
+            
+        }
+
+
+h1#cv {
+        font-size:200%;
+        text-align:center;
+        margin-bottom: 0.5em;
+}
+
+#cv {
+        font-size:200%;
+        text-align:center;
+        margin-bottom: 0.5em;
+}
+
+#cv_div {
+        font-family: Fira Sans, Arial;
+        font-weight: 300;
+        font-style: normal;
+        font-size: 12pt;
+        max-width: 49em;
+        margin: 0 auto 2em auto;
+        line-height: 1.4;
+        padding: 0em 0.5em;
+}
+#cv_div h2 {
+        font-size: 120%;
+        font-weight: 400;
+        page-break-after: avoid;
+        margin: 0.7em 0em 0.4em 0em;
+}
+#cv_div h1 {
+        font-size: 150%;
+        font-weight: 400;
+        display: inline-block;
+        margin-top: 8px;
+        margin-bottom: 0px;
+}
+#cv_div a {
+        text-decoration: none;
+        color: #000;
+}
+#cv_div b {
+        font-weight: 400;
+}
+#cv_div strong {
+        font-weight: 400;
+}
+#cv_div .block {
+        margin-left: 20px;
+}
+#cv_div .item {
+        margin-bottom: 0.5em;
+        display: table;
+        page-break-inside: avoid;
+}
+#cv_div .year {
+        width: 48px;
+        display: table-cell;
+}
+#cv_div .yearrange {
+        width: 92px;
+        display: table-cell;
+}
+#cv_div .yearright {
+        display: table-cell;
+}
+#cv_div .onelineitem {
+        margin-bottom: 5px;
+        display: table;
+        page-break-inside: avoid;
+}
+#cv_div #name {
+        page-break-after: avoid;
+        font-size: 20pt;
+        font-weight: 500;
+        margin-bottom: 0px;
+}
+#cv_div .tt {
+        font-family: Roboto Mono, "Courier New", Courier, monospace;
+        font-weight: 600;
+}
+#cv_div .row {
+        display: table-row;
+}
+#cv_div .cell {
+        display: table-cell;
+        text-align: center;
+        padding-left: 5px;
+        padding-right: 5px;
+}
+#cv_div p {
+        margin: 0 0 0.4em 0;
+}
+#cv_div .vline {
+        width: 100%;
+        height: 1px;
+        background-color: #000;
+        margin: 0 0 0.6em 0;
+}
+#cv_div .docname {
+        font-size: 133%;
+        float: right;
+        margin-top: 12px;
+}
+
+#cv_div @media print{
+        body {
+                width: 680px;
+        }
+}
+
+#printlink {
+        text-align: center;
+        width: 100%;
+        display: block;
+        padding: 0 0 .5em 0;
+}
