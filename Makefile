@@ -52,12 +52,12 @@ prepwebsite:
 buildwebsite: build prepwebsite stageprint
 
 websitepush: 
-	git -C $(WEBSITE_DIR) add $(WEBSITE_MD) $(WEBSITE_DATE)
+	git -C $(WEBSITE_DIR) add $(CV_WEBSITE) $(WEBSITE_CV_CSS) $(WEBSITE_PAGE_HTML)
 	git -C $(WEBSITE_DIR) commit -m "Update cv."
 	git -C $(WEBSITE_DIR) push
 
 cvpush:
-	git add $(WEBSITE_MD) $(WEBSITE_DATE)
+	git add *
 	git commit -m "Update cv."
 	git push
 

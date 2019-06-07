@@ -128,6 +128,17 @@
             {% endfor %}
         </div>
 
+        <h2>Datasets</h2>
+
+        <div class="block">
+            {% for item in datasets %}
+            <div class="item">
+                {{item.authors}}, <span class="papertitle">{% if item.url %}<a href="{{item.url}}">{% endif %}&#x201c;{{item.title}}&#x201d;{% if item.url %}</a>{% endif %}</span>, <i>{{item.repository}}</i>, {{item.year}}.
+            </div>
+            {% endfor %}
+        </div>
+
+
         <h2>Teaching</h2>
 
         <div class="block">
