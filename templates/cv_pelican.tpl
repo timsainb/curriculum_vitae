@@ -12,7 +12,7 @@
 {% block content %}
 
 <link rel="stylesheet" type="text/css" href="../assets/css/cv.css">
-<a id="printlink" href="curriculumvitae.html">Print Version</a>
+<a id="printlink" href="../curriculumvitae.html">Print Version</a>
 <div id="cv_div">
 <div class="vline"></div>
 
