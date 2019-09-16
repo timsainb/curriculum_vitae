@@ -1,14 +1,9 @@
-{"code":
-    [
+{
+    "code": [
         {
             "title": "tensorflow_generative_models",
             "url": "http://github.com/timsainb/tensorflow2-generative-models",
             "description": "Tensorflow2/Colab implementations of a number of audio and image generative models."
-        },
-        {
-            "title": "AVGN",
-            "url": "http://github.com/timsainb/AVGN",
-            "description": "Latent space models for visualizing and manipulating animal communization signals."
         },
         {
             "title": "birdbrain",
@@ -19,6 +14,11 @@
             "title": "noisereduce",
             "url": "http://github.com/timsainb/noisereduce",
             "description": "Spectral noise reduction package for python."
+        },
+        {
+            "title": "AVGN",
+            "url": "http://github.com/timsainb/AVGN",
+            "description": "Latent space models for visualizing and manipulating animal communization signals."
         }
     ]
 }

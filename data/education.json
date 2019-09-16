@@ -1,10 +1,10 @@
-{"education":
-    [
+{
+    "education": [
         {
             "place": "University of California, San Diego, CA",
             "start": "2015",
             "end": "now",
-            "degree": "Ph.D. in Psychology with a Specialization in Anthropogeny",
+            "degree": "Ph.D. in Behavioral Neuroscience with a Specialization in Anthropogeny",
             "lab": "Auditory Neuroscience Laboratory",
             "advisor": "Timothy Q. Gentner"
         },
@@ -16,5 +16,3 @@
         }
     ]
 }
-
-

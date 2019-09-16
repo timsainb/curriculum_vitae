@@ -4,9 +4,11 @@
             "authors": "Tim Sainburg, Brad Theilman, Marvin Thielk, and Tim Gentner",
             "title": "Parallels in the sequential organization of birdsong and human speech",
             "journal": "Nature Communications",
-            "day": 1,
+            "day": 12,
             "month": 8,
-            "year": 2019
+            "year": 2019,
+            "url": "https://doi.org/10.1038/s41467-019-11605-y",
+            "doi": "https://doi.org/10.1038/s41467-019-11605-y"
         }
     ]
 }

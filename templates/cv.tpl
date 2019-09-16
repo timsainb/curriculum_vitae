@@ -17,7 +17,7 @@
     <br />
     <span class="contact_details">Phone: </span>814-574-7780
     <br />
-    <span class="contact_details">Website: </span><a href="http://timsainburg.com">timsainb@gmail.com</a>
+    <span class="contact_details">Website: </span><a href="http://timsainburg.com">http://timsainburg.com</a>
     <br />
     <span class="contact_details">Github: </span><a href="http://github.com/timsainb">github.com/timsainb</a>
     <br />
