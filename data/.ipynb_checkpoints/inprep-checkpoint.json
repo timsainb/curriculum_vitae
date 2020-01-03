@@ -2,6 +2,12 @@
     "in_preparation": [
         {
             "authors": "Tim Sainburg, Marvin Thielk, and Tim Gentner",
+            "title": "Exploring and exploiting acoustic spaces of animal vocalizations",
+            "journal": "In Preparation",
+            "url": "https://github.com/timsainb/avgn"
+        },
+        {
+            "authors": "Tim Sainburg, Marvin Thielk, and Tim Gentner",
             "title": "Birdbrain: A Python tool for 3D brain visualization for songbirds and other animals.",
             "journal": "In Preparation",
             "url": "https://github.com/timsainb/birdbrain"

@@ -1,0 +1,66 @@
+{"posters":
+    [
+        {
+            "authors": "Tim Sainburg, Marvin Thielk, and Timothy Q. Gentner",
+            "title": "Animal Vocalization Generative Network (AVGN): A method for visualizing, understanding, and sampling from animal communicative repertoires",
+            "venue": "Cognitive Science Society 2019 (CogSci)",
+            "month": 7,
+            "year": 2019
+        },
+
+        {
+            "authors": "Tim Sainburg, Marvin Thielk, Brad Theilman, and Timothy Q. Gentner",
+            "title": "Sequential organization in birdsong and language: implications for neuroscience and AI",
+            "venue": "Center for Englineered Natural Intelligence Symposium (CENI 2018)",
+            "month": 12,
+            "year": 2018
+        },
+
+        {
+            "authors": "Tim Sainburg, Marvin Thielk, and Timothy Q. Gentner",
+            "title": "Learned context dependent categorical perception in songbirds",
+            "venue": "Society for Neuroscience (SfN)",
+            "month": 11,
+            "year": 2018
+        },
+
+        {
+            "authors": "Tim Sainburg, Marvin Thielk, and Timothy Q. Gentner",
+            "title": "Latent manifold analysis reveals parallels in hierarchical patterning of birdsong and human speech",
+            "venue": "Computational and Systems Neuroscience (COSYNE)",
+            "month": 2,
+            "year": 2017
+        },
+
+        {
+            "authors": "Marvin Thielk, Tim Sainburg, Tatyana Sharpee, and Timothy Q. Gentner",
+            "title": "Combining Biological and Artificial Approaches to Understand Perceptual Spaces for Categorizing Natural Acoustic Signals",
+            "venue": "Cognitive Computational Neuroscience (CCN)",
+            "month": 9,
+            "year": 2018
+        },
+
+        {
+            "authors": "Marvin Thielk, Tim Sainburg, Tatyana Sharpee, and Timothy Q. Gentner",
+            "title": "Shared perceptual spaces for high-dimensional natural acoustic signals",
+            "venue": "Computational and Systems Neuroscience (COSYNE)",
+            "month": 2,
+            "year": 2017
+        },
+
+        {
+            "authors": "Tim Sainburg, Marvin Thielk, Brad Theilman, and Timothy Q. Gentner",
+            "title": "Latent manifold analysis reveals parallels in hierarchical patterning of birdsong and human speech",
+            "venue": "Computational and Systems Neuroscience (COSYNE)",
+            "month": 2,
+            "year": 2017
+        },
+        {
+            "authors": "Tim Sainburg, Brad Theilman, and Timothy Q. Gentner",
+            "title": "Mechanisms for category learning in songbirds",
+            "venue": "Society for Neuroscience",
+            "month": 11,
+            "year": 2016
+        }
+    ]
+}
