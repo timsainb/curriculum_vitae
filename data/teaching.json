@@ -1,6 +1,12 @@
 {"teaching":
     [
         {
+            "name": "Sensory Neuroscience",
+            "position": "Instructor",
+            "location": "University of California, San Diego",
+            "start": 2020
+        },
+        {
             "name": "Brain, Behavior, and Evolution",
             "position": "Teaching Assistant",
             "location": "University of California, San Diego",
