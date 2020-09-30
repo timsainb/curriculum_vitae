@@ -18,6 +18,16 @@
             "year": 2019,
             "url": "https://doi.org/10.1038/s41467-019-11605-y",
             "doi": "https://doi.org/10.1038/s41467-019-11605-y"
+        },
+        {
+            "authors": "Tim Sainburg, Marvin Thielk, and Tim Gentner",
+            "title": "Finding, visualizing, and quantifying latent structure across diverse animal vocal repertoires",
+            "journal": "PLOS Computational Biology",
+            "day": 1,
+            "month": 12,
+            "year": 2020,
+            "url": "#",
+            "doi": ""
         }
         
     ]

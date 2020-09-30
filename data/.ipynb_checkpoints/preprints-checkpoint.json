@@ -2,7 +2,7 @@
     [
         {
             "authors": "Tim Sainburg, Marvin Thielk, Brad Theilman, Benjamin Migliori, and Timothy Q. Gentner",
-            "title": "Generative adversarial in-terpolative autoencoding:  adversarial training on latent space interpolations encourage convexlatent distributions",
+            "title": "Generative adversarial interpolative autoencoding:  adversarial training on latent space interpolations encourage convexlatent distributions",
             "journal": "arXiv.  1807.06650",
             "day": 1,
             "month": 7,
@@ -18,6 +18,24 @@
             "month": 12,
             "year": 2019,
             "url": "https://doi.org/10.1101/870311"
+        },
+        {
+            "authors": "Tim Sainburg, Anna Mai, and Timothy Q. Gentner",
+            "title": "Long-range sequential dependencies precede complex syntactic production in language acquisition",
+            "journal": "bioRxiv",
+            "day": 20,
+            "month": 8,
+            "year": 2020,
+            "url": "https://doi.org/10.1101/2020.08.19.256792"
+        },
+        {
+            "authors": "Tim Sainburg, Leland McInnes, Timothy Q. Gentner",
+            "title": "Parametric UMAP: learning embeddings with deep neural networks for representation and semi-supervised learning",
+            "journal": "arXiv. 2009.12981",
+            "day": 27,
+            "month": 9,
+            "year": 2020,
+            "url": "https://arxiv.org/abs/2009.12981"
         }
     ]
 }

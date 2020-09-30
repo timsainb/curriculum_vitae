@@ -3,9 +3,19 @@
         {
             "authors": "Tim Sainburg, Anna Mai, and Timothy Q. Gentner",
             "title": "Long-range sequential dependencies precede syntactically-rich vocalizations in humans",
+            "venue": "Society for the Neurobiology of Language",
+            "month": 10,
+            "url":"", 
+            "doi":"",
+            "year": 2020
+        },
+        {
+            "authors": "Tim Sainburg, Anna Mai, and Timothy Q. Gentner",
+            "title": "Long-range sequential dependencies precede syntactically-rich vocalizations in humans",
             "venue": "Evolang",
             "month": 4,
-            "url":"", 
+            "url":"http://brussels.evolang.org/proceedings/paper.html?nr=157", 
+            "doi":"10.17617/2.3190925",
             "year": 2020
         },
         {

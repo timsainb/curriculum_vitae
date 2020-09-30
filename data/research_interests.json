@@ -26,6 +26,9 @@
         },
         {
             "topic": "Machine perception"
+        },
+        {
+            "topic": "Dimensionality reduction"
         }
     ]
 }

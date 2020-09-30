@@ -2,8 +2,32 @@
     [
         
         {
-            "name": "Summer Graduate Teaching Scholars Program",
+            "name": "William Orr Dingwall Dissertation Fellowship in the Cognitive, Clinical, and Neural Foundations of Language",
+            "venue": "William Orr Dingwall Foundation",
+            "year": 2020,
+            "value": "$30,000"
+        },
+        {
+            "name": "Abstract Merit Award Honorable Mention",
+            "venue": "Society for the Neurobiology of Language",
+            "year": 2020,
+            "value": "$50"
+        },
+        {
+            "name": "CARTA Fellowship",
             "venue": "Center for Research and Training in Anthropogeny",
+            "year": 2020,
+            "value": "$20,000"
+        },
+        {
+            "name": "Institute for Neural Computation Training Fellowship",
+            "venue": "NIMH",
+            "year": 2020,
+            "value": "$24,500"
+        },
+        {
+            "name": "Summer Graduate Teaching Scholars Fellowship",
+            "venue": "UC San Diego",
             "year": 2020,
             "value": "$1,200"
         },

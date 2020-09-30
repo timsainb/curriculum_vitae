@@ -62,7 +62,7 @@
             {% endfor %}
         </div>
 
-        <h2>Honors and Awards</h2>
+        <h2>Grants and Awards</h2>
 
         <div class="block">
             {% for item in awards %}
@@ -101,29 +101,6 @@
             {% endfor %}
         </div>
 
-        <h2>Under Review</h2>
-
-        <div class="block">
-            {% for item in under_review %}
-            <div class="item">
-                {{item.authors}}, <span class="papertitle">{% if item.url %}<a
-                        href="{{item.url}}">{% endif %}&#x201c;{{item.title}}&#x201d;{% if item.url %}</a>{% endif %}</span>,
-                <i>{{item.journal}}</i>, {{item.year}}.
-            </div>
-            {% endfor %}
-        </div>
-
-        <h2>In Preparation</h2>
-
-        <div class="block">
-            {% for item in in_preparation %}
-            <div class="item">
-                {{item.authors}}, <span class="papertitle">{% if item.url %}<a
-                        href="{{item.url}}">{% endif %}&#x201c;{{item.title}}&#x201d;{% if item.url %}</a>{% endif %}</span>{% if item.journal %},
-                <i>{{item.journal}}{% endif %}</i>{% if item.year %}, {{item.year}}.{% endif %}
-            </div>
-            {% endfor %}
-        </div>
 
         <h2>Conference Papers</h2>
 
@@ -145,6 +122,30 @@
                 {{item.authors}}, <span class="papertitle">{% if item.url %}<a
                         href="{{item.url}}">{% endif %}&#x201c;{{item.title}}&#x201d;{% if item.url %}</a>{% endif %}</span>,
                 <i>{{item.repository}}</i>, {{item.year}}.
+            </div>
+            {% endfor %}
+        </div>
+    
+        <h2>Under Review</h2>
+
+        <div class="block">
+            {% for item in under_review %}
+            <div class="item">
+                {{item.authors}}, <span class="papertitle">{% if item.url %}<a
+                        href="{{item.url}}">{% endif %}&#x201c;{{item.title}}&#x201d;{% if item.url %}</a>{% endif %}</span>,
+                <i>{{item.journal}}</i>, {{item.year}}.
+            </div>
+            {% endfor %}
+        </div>
+
+        <h2>In Preparation</h2>
+
+        <div class="block">
+            {% for item in in_preparation %}
+            <div class="item">
+                {{item.authors}}, <span class="papertitle">{% if item.url %}<a
+                        href="{{item.url}}">{% endif %}&#x201c;{{item.title}}&#x201d;{% if item.url %}</a>{% endif %}</span>{% if item.journal %},
+                <i>{{item.journal}}{% endif %}</i>{% if item.year %}, {{item.year}}.{% endif %}
             </div>
             {% endfor %}
         </div>
@@ -187,7 +188,7 @@
             {% endfor %}
         </div>
 
-        <h2>Software Libraries</h2>
+        <h2>Software Contributions</h2>
 
         <div class="block">
             {% for item in code %}

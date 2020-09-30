@@ -11,10 +11,18 @@
         {
             "authors": "Marvin Thielk, Tim Sainburg, Tatyana Sharpee, and Timothy Q. Gentner",
             "title": "Combining Biological and Artificial Approaches to Understand Perceptual Spaces for Categorizing Natural Acoustic Signals",
-            "venue": "Computational Cognitive Neuroscience (2018)",
+            "venue": "Computational Cognitive Neuroscience (CCN)",
             "url": "https://doi.org/10.32470/CCN.2018.1247-0",
             "month": 9,
             "year": 2018
+        },
+        {
+            "authors": "Bernard Koch, Tim Sainburg, Song Jiang, Jacob G. Foster, Yizhou Sun",
+            "title": "Deep learning of potential outcomes",
+            "venue": "American Sociological Association (ASA) Annual Meeting",
+            "url": "https://convention2.allacademic.com/one/asa/asa20/index.php?program_focus=view_paper&selected_paper_id=1645976&cmd=online_program_direct_link&sub_action=online_program",
+            "month": 8,
+            "year": 2020
         }
 
     ]
