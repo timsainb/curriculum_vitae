@@ -1,34 +1,40 @@
 {
     "research_interests": [
         {
-            "topic": "Auditory neuroscience"
+            "topic": "neuroethology"
         },
         {
-            "topic": "Language origins"
+            "topic": "neurophysiology/neural data analysis"
         },
         {
-            "topic": "Language development"
+            "topic": "auditory neuroscience"
         },
         {
-            "topic": "Deep Learning/NLP"
+            "topic": "language origins"
+        },
+        {
+            "topic": "language development"
+        },
+        {
+            "topic": "deep learning/NLP"
         },
         {
             "topic": "Animal cognition/communication"
         },
         {
-            "topic": "Sequence models"
+            "topic": "sequence models"
         },
         {
-            "topic": "Generative models"
+            "topic": "generative models"
         },
         {
-            "topic": "Computational ethology"
+            "topic": "computational ethology"
         },
         {
-            "topic": "Machine perception"
+            "topic": "machine perception"
         },
         {
-            "topic": "Dimensionality reduction"
+            "topic": "dimensionality reduction"
         }
     ]
 }

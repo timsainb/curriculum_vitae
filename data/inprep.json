@@ -1,6 +1,12 @@
 {
     "in_preparation": [
         {
+            "authors": "Brad Theilman, Tim Sainburg, and Tim Gentner",
+            "title": "RPiOperant: Raspberry-Pi based operant conditioning system for behavior and electrophysiology",
+            "journal": "In Preparation",
+            "url": "https://github.com/theilmbh/RPiOperant"
+        },
+        {
             "authors": "Tim Sainburg, Marvin Thielk, and Tim Gentner",
             "title": "Birdbrain: A Python tool for 3D brain visualization for songbirds and other animals.",
             "journal": "In Preparation",
