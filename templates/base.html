@@ -207,9 +207,10 @@
             <div class="onelineitem">
                 <div class="yearrange">{{item.start}}{% if item.end %}&#8211;{{item.end}}{% endif %}</div>
                 <div class="yearright">
+                    {{item.position}}:
                     <strong>{% if item.url %}<a
                             href="{{item.url}}">{% endif %}{{item.name}}{% if item.url %}</a>{% endif %}</strong>,
-                    {{item.position}}, {{item.location}}
+                    {{item.location}}
                 </div>
             </div>
             {% endfor %}
@@ -241,17 +242,8 @@
             </div>
             {% endfor %}
         </div>
-
-        <h2>Reviewer</h2>
-
-        <div class="block">
-            <div class="item">
-                {% for item in reviewer %}
-                <span class="journal">{{item.journal}}</span>
-                {% endfor %}
-            </div>
-        </div>
-
+        
+        
         <h2>Additional Coursework</h2>
 
         <div class="block">

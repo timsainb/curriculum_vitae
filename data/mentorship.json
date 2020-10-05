@@ -2,38 +2,38 @@
     [
         {
             "name": "Mingxuan Zhang",
-            "description": "Post-Bac at UCSD",
+            "description": "Computer Science Post-Bac at UCSD",
             "project": "Computational Neuroscience/Machine Learning",
             "start": 2019
         },
         {
             "name": "Meixuan Jiang",
-            "description": "Undergraduate at UCSD",
+            "description": "Computer Science Undergraduate at UCSD",
             "project": "Machine Learning/NLP",
             "start": 2019
         },
         {
             "name": "Yijia Yan",
-            "description": "Undergraduate at UCSD",
+            "description": "Computer Science Undergraduate at UCSD",
             "project": "Machine Learning/NLP",
             "start": 2019
         },
         {
             "name": "Jimmy Lozono",
-            "description": "Undergraduate at UCSD",
+            "description": "Cognitive Science Undergraduate at UCSD",
             "project": "Songbird behavioral metrics",
             "start": 2019
         },
         {
             "name": "Darvesh Gorhe",
-            "description": "Undergraduate at UCSD",
+            "description": "Neuroscience Undergraduate at UCSD",
             "project": "Songbird neurobiology",
             "start": 2016,
             "end": 2018
         },
         {
             "name": "Hector Ponce",
-            "description": "Undergraduate at UCSD",
+            "description": "Neuroscience Undergraduate at UCSD",
             "project": "Songbird neurobiology",
             "start": 2017
         }

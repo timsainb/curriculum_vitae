@@ -8,14 +8,14 @@
 
 {% block content %}
 <div id="cv_div">
-<h1 id="name">Tim Sainburg</h1> &nbsp; <span class="docname"><a href="mailto:timsainb@gmail.com">Curriculum Vit&aelig;</span>
+<h1 id="name">Tim Sainburg</h1> &nbsp; <span class="docname">Curriculum Vit&aelig;</span>
 
 <div class="vline"></div>
 
 <div id="contactinfo">
     <span class="contact_details">Email: </span><a href="mailto:timsainb@gmail.com">timsainb@gmail.com</a>
     <br />
-    <span class="contact_details">Phone: </span>814-574-7780
+    <span class="contact_details">Phone: </span>1-814-574-7780
     <br />
     <span class="contact_details">Website: </span><a href="http://timsainburg.com">http://timsainburg.com</a>
     <br />
