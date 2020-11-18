@@ -1,6 +1,12 @@
 {"mentorship":
     [
         {
+            "name": "Jeffrey Xing",
+            "description": "Music and Composition Undergraduate at UCSD",
+            "project": "Computational Neuroscience/Machine Learning",
+            "start": 2020
+        },
+        {
             "name": "Mingxuan Zhang",
             "description": "Computer Science Post-Bac at UCSD",
             "project": "Computational Neuroscience/Machine Learning",
