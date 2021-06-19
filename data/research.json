@@ -2,6 +2,15 @@
     [
         
         {
+            "Organization": "Harvard Medical School",
+            "lab": "Datta Lab",
+            "location": "Boston, MA",
+            "advisor": "Sandeep Robert Datta",
+            "start": "Late 2021 (planned)",
+            "end": "",
+            "title": "Postdoctoral researcher"
+        },
+        {
             "Organization": "University of California, San Diego",
             "lab": "Auditory Neurscience Laboratory",
             "location": "La Jolla, CA",

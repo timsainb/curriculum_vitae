@@ -1,6 +1,13 @@
 {"posters":
     [
         {
+            "authors": "Tim Sainburg, Anna Mai, and Timothy Q. Gentner",
+            "title": "Long-range sequential dependencies precede complex syntactic production in language acquisition",
+            "venue": "Cognitive Science Society 2021 (CogSci)",
+            "month": 7,
+            "year": 2021
+        },
+        {
             "authors": "Tim Sainburg, Marvin Thielk, and Timothy Q. Gentner",
             "title": "Animal Vocalization Generative Network (AVGN): A method for visualizing, understanding, and sampling from animal communicative repertoires",
             "venue": "Cognitive Science Society 2019 (CogSci)",

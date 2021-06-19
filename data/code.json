@@ -3,7 +3,7 @@
         {
             "title": "noisereduce",
             "url": "http://github.com/timsainb/noisereduce",
-            "description": " (python package) Noise reduction in using spectral gating (speech, bioacoustics, time-domain signals)."
+            "description": " (python package) Noise reduction in Python using spectral gating (speech, bioacoustics, time-domain signals)."
         },
         {
             "title": "birdbrain",

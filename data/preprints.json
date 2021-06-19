@@ -27,15 +27,6 @@
             "month": 8,
             "year": 2020,
             "url": "https://doi.org/10.1101/2020.08.19.256792"
-        },
-        {
-            "authors": "Tim Sainburg, Leland McInnes, Timothy Q. Gentner",
-            "title": "Parametric UMAP: learning embeddings with deep neural networks for representation and semi-supervised learning",
-            "journal": "arXiv. 2009.12981",
-            "day": 27,
-            "month": 9,
-            "year": 2020,
-            "url": "https://arxiv.org/abs/2009.12981"
         }
     ]
 }

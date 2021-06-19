@@ -1,9 +1,20 @@
 {"additional_coursework":
     [
         {
-            "venue": "Diverse Intelligences Summer School (DISI)",
+            "venue": "Data Science Specialization",
+            "location": "Johns Hopkins / Coursera",
+            "year": 2014
+        },
+        {
+            "venue": "Machine Learning",
+            "location": "Stanford / Coursera",
+            "year": 2014
+        },
+        {
+            "venue": "Diverse Intelligences Summer Institute (DISI)",
             "location": "St. Andrews, Scotland",
             "year": 2019
         }
     ]
+
 }

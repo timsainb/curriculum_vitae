@@ -1,15 +1,6 @@
 {"under_review":
     [
         {
-            "authors": "Tim Sainburg, Leland McInnes, and Timothy Q. Gentner",
-            "title": "Parametric UMAP: learning embeddings with deep neural networks for representation and semi-supervised learning",
-            "journal": "under review",
-            "day": 1,
-            "month": 12,
-            "year": 2020,
-            "url": ""
-        },
-        {
             "authors": "Tim Sainburg, Anna Mai, and Timothy Q. Gentner",
             "title": "Long-range sequential dependencies precede complex syntactic production in language acquisition",
             "journal": "under review",
