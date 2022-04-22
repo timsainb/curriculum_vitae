@@ -23,10 +23,10 @@
     <br />
 </div> 
 <div id="address">
-    9500 Gilman Drive    <br />            
-    Department of Psychology         <br /> 
-    UC San Diego <br />
-    La Jolla, CA  92093-0109 USA <br />
+    220 Longwood Avenue    <br />            
+    Department of Neurobiology         <br /> 
+    Harvard Medical School <br />
+    Boston, MA 02115 USA <br />
 </div>
 {{ super() }}
 {% endblock %}

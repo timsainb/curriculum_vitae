@@ -5,16 +5,6 @@
             "title": "RPiOperant: Raspberry-Pi based operant conditioning system for behavior and electrophysiology",
             "journal": "In Preparation",
             "url": "https://github.com/theilmbh/RPiOperant"
-        },
-        {
-            "authors": "Marvin Thielk, Tim Sainburg, Tatyana Sharpee, and Tim Gentner",
-            "title": "Synthetic vocalizations reveal a shared perceptual space predicted by relationships in neural population activity shared across birds and recording sites.",
-            "journal": "In Preparation"
-        },
-        {
-            "authors": "Tim Sainburg, Trevor S McPherson, Ezequiel M Arneodo, Srihita Rudraraju, Michael Turvey, Brad Theilman, Pablo Tostado Marcos, Marvin Thielk, Timothy Q. Gentner",
-            "title": "Prediction and probabilistic integration underlie learned context-dependent categorical vocal sequence perception and sensory physiology",
-            "journal": "In Preparation"
         }
     ]
 }

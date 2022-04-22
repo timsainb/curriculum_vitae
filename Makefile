@@ -7,10 +7,10 @@
 # Ellis Michael <http://ellismichael.com>
 
 # local folder that CV is in
-CV_DIR=/mnt/cube/tsainbur/Projects/github_repos/curriculumvitae
+CV_DIR=/n/groups/datta/tim_sainburg/projects/curriculum_vitae
 
 # local folder the website is in 
-WEBSITE_DIR=/mnt/cube/tsainbur/Projects/github_repos/timsainburg_dot_com/timsainburg.com#content/pages/cv.md
+WEBSITE_DIR=/n/groups/datta/tim_sainburg/projects/timsainburg.com#content/pages/cv.md
 
 # where the cv that gets embedded within the page saves to
 CV_PAGE_HTML = $(CV_DIR)/cv/cv_pelican.html

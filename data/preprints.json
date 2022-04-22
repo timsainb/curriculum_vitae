@@ -9,33 +9,6 @@
             "year": 2018,
             "url": "https://arxiv.org/abs/1807.06650"
 
-        },
-        {
-            "authors": "Tim Sainburg, Anna Mai, and Timothy Q. Gentner",
-            "title": "Long-range sequential dependencies precede complex syntactic production in language acquisition",
-            "journal": "bioRxiv",
-            "day": 20,
-            "month": 8,
-            "year": 2020,
-            "url": "https://doi.org/10.1101/2020.08.19.256792"
-        },
-        {
-            "authors": "Bernard Koch, Tim Sainburg, Pablo Geraldo, Song Jiang, Yizhou Sun, Jacob Gates Foster",
-            "title": "Deep Learning of Potential Outcomes",
-            "journal": "arXiv. 2110.04442",
-            "day": 9,
-            "month": 10,
-            "year": 2021,
-            "url": "https://arxiv.org/abs/2110.04442"
-        },
-        {
-            "authors": "Mara Thomas, Frants Jensen, Baptiste Averly, Vlad Demartsev, Marta B Manser, Tim Sainburg, Marie Roch, Ariana Strandburg-Peshkin",
-            "title": "A practical guide for generating unsupervised, spectrogram-based latent space representations of animal vocalizations",
-            "journal": "bioRxiv",
-            "day": 20,
-            "month": 8,
-            "year": 2021,
-            "url": "https://doi.org/10.1101/2021.12.16.472881"
         }
     ]
 }

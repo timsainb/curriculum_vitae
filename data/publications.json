@@ -45,8 +45,16 @@
             "month": 12,
             "year": 2021,
             "url": "https://doi.org/10.3389/fnbeh.2021.811737"
+        },
+        {
+            "authors": "Tim Sainburg, Anna Mai, and Timothy Q. Gentner",
+            "title": "Long-range sequential dependencies precede complex syntactic production in language acquisition",
+            "journal": "Proceedings of the Royal Society B",
+            "day": 9,
+            "month": 3,
+            "year": 2022,
+            "url": "https://doi.org/10.1098/rspb.2021.2657"
         }
-        
     ]
 }
 

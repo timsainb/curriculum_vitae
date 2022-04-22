@@ -41,6 +41,8 @@
                     <strong>{{item.place}}</strong><br />
                     {{item.degree}}<br />
                     {% if item.lab %}{{item.lab}}<br />{% endif %}
+                    {% if item.title %}{{item.title}}<br />{% endif %}
+                    {% if item.degree_date %}{{item.degree_date}}<br />{% endif %}
                     {% if item.advisor %}Advisor: {{item.advisor}}<br />{% endif %}
                 </div>
             </div>
@@ -87,12 +89,11 @@
             </div>
             {% endfor %}
         </div>
-
-
-        <h2>Preprints</h2>
+        
+        <h2>Under Review</h2> 
 
         <div class="block">
-            {% for item in preprints %}
+            {% for item in under_review %}
             <div class="item">
                 {{item.authors}}, <span class="papertitle">{% if item.url %}<a
                         href="{{item.url}}">{% endif %}&#x201c;{{item.title}}&#x201d;{% if item.url %}</a>{% endif %}</span>,
@@ -100,7 +101,6 @@
             </div>
             {% endfor %}
         </div>
-
 
         <h2>Conference Papers</h2>
 
@@ -115,11 +115,10 @@
         </div>
 
  
-    
-        <h2>Under Review</h2> 
+        <h2>Preprints</h2>
 
         <div class="block">
-            {% for item in under_review %}
+            {% for item in preprints %}
             <div class="item">
                 {{item.authors}}, <span class="papertitle">{% if item.url %}<a
                         href="{{item.url}}">{% endif %}&#x201c;{{item.title}}&#x201d;{% if item.url %}</a>{% endif %}</span>,
@@ -128,17 +127,8 @@
             {% endfor %}
         </div>
 
-        <h2>In Preparation</h2>
+        
 
-        <div class="block">
-            {% for item in in_preparation %}
-            <div class="item">
-                {{item.authors}}, <span class="papertitle">{% if item.url %}<a
-                        href="{{item.url}}">{% endif %}&#x201c;{{item.title}}&#x201d;{% if item.url %}</a>{% endif %}</span>{% if item.journal %},
-                <i>{{item.journal}}{% endif %}</i>{% if item.year %}, {{item.year}}.{% endif %}
-            </div>
-            {% endfor %}
-        </div>
     
     <h2>Datasets</h2>
 
