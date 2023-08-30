@@ -1,9 +1,15 @@
 {"mentorship":
     [
         {
+            "name": "Jack Lovell",
+            "description": "Harvard Medical School Computer Scientist",
+            "project": "Computational Ethology and Neuroscience",
+            "start": 2023
+        },
+        {
             "name": "Jeffrey Xing",
             "description": "Music and Composition Undergraduate at UCSD",
-            "project": "Computational Neuroscience/Machine Learning",
+            "project": "Bioacoustics",
             "start": 2020,
             "end":2022
         },
@@ -43,6 +49,12 @@
             "description": "Neuroscience Undergraduate at UCSD",
             "project": "Songbird neurobiology",
             "start": 2017
+        },
+        {
+            "name": "Katherine Hernandez",
+            "description": "Ecology, Behavior, and Evolution Undergraduate at UCSD",
+            "project": "Animal Behavior",
+            "start": 2016
         }
     ]
 }

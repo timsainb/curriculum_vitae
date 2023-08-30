@@ -1,6 +1,14 @@
 {"conference_papers":
     [
         {
+            "authors": "Jeffrey Xing, Tim Sainburg, Timothy Q. Gentner, and Hollis Taylor",
+            "title": "Examining song complexity of Australian pied butcherbirds",
+            "venue": "Acoustics 2021",
+            "url":"https://acoustics.asn.au/conference_proceedings/AAS2021/papers/p106.pdf", 
+            "month": 9,
+            "year": 2021
+        },
+        {
             "authors": "Tim Sainburg, Marvin Thielk, and Timothy Q. Gentner",
             "title": "Learned context dependent categorical perception in a songbird",
             "venue": "Computational Cognitive Neuroscience (CCN)",

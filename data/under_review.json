@@ -1,24 +1,6 @@
 {"under_review":
     [
         {
-            "authors": "Bernard Koch, Tim Sainburg, Pablo Geraldo, Song Jiang, Yizhou Sun, Jacob Gates Foster",
-            "title": "Deep Learning of Potential Outcomes",
-            "journal": "arXiv. 2110.04442",
-            "day": 9,
-            "month": 10,
-            "year": 2021,
-            "url": "https://arxiv.org/abs/2110.04442"
-        },
-        {
-            "authors": "Mara Thomas, Frants Jensen, Baptiste Averly, Vlad Demartsev, Marta B Manser, Tim Sainburg, Marie Roch, Ariana Strandburg-Peshkin",
-            "title": "A practical guide for generating unsupervised, spectrogram-based latent space representations of animal vocalizations",
-            "journal": "bioRxiv",
-            "day": 20,
-            "month": 8,
-            "year": 2021,
-            "url": "https://doi.org/10.1101/2021.12.16.472881"
-        },
-        {
             "authors": "Tim Sainburg, Trevor S McPherson,Ezequiel M. Arneodo, Srihita Rudraraju,  Michael Turvey, Brad Theilman,  Pablo Tostado Marcos,  Marvin Thielk, Timothy Q Gentner",
             "title": "Context-dependent sensory modulation underlies Bayesian vocal sequence perception",
             "journal": "bioRxiv",

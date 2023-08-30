@@ -2,13 +2,13 @@
     [
         
         {
-            "Organization": "Harvard Medical School",
-            "lab": "Datta Lab",
+            "Organization": "Harvard / Harvard Medical School",
+            "lab": "Datta Lab / Hoekstra Lab",
             "location": "Boston, MA",
-            "advisor": "Sandeep Robert Datta",
+            "advisor": "Sandeep Robert Datta, Hopi Hoekstra",
             "start": "2022",
             "end": "now",
-            "title": "Postdoctoral researcher"
+            "title": "Postdoctoral researcher / Schmidt Science Fellow"
         },
         {
             "Organization": "University of California, San Diego",

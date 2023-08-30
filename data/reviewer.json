@@ -1,7 +1,16 @@
 {"reviewer":
     [
         {
-            "journal": "Animal Behavior, The Auk, Cognitive Science Society"
+            "journal": [
+                "Animal Behavior",
+                "The Auk",
+                "Cognitive Science Society", 
+                "PLOS Biology", 
+                "PLOS Computational Biology",
+                "Frontiers in Ecology and Evolution",
+                "Cell",
+                "Journal of Ornithology"
+            ]
         }
     ]
 }

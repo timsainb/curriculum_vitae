@@ -54,7 +54,52 @@
             "month": 3,
             "year": 2022,
             "url": "https://doi.org/10.1098/rspb.2021.2657"
-        }
+        },
+        {
+            "authors": "Tim Sainburg, Anna Mai, and Timothy Q. Gentner",
+            "title": "Long-range sequential dependencies precede complex syntactic production in language acquisition",
+            "journal": "Proceedings of the Royal Society B",
+            "day": 9,
+            "month": 3,
+            "year": 2022,
+            "url": "https://doi.org/10.1098/rspb.2021.2657"
+        },
+        {
+            "authors": "Mara Thomas, Frants Jensen, Baptiste Averly, Vlad Demartsev, Marta B Manser, Tim Sainburg, Marie Roch, and Ariana Strandburg-Peshkin",
+            "title": "A practical guide for generating unsupervised, spectrogram-based latent space representations of animal vocalizations",
+            "journal": "Journal of Animal Ecology",
+            "day": 20,
+            "month": 6,
+            "year": 2022,
+            "url": "https://doi.org/10.1111/1365-2656.13754"
+        },
+        {
+            "authors": "Jeffrey Xing, Tim Sainburg, Hollis Taylor, and Timothy Q. Gentner",
+            "title": "Syntactic modulation of rhythm in Australian pied butcherbird song",
+            "journal": "Royal Society  Open Science",
+            "day": 28,
+            "month": 9,
+            "year": 2022,
+            "url": "https://doi.org/10.1098/rsos.220704"
+        },
+        {
+            "authors": "Tim Sainburg",
+            "title": "American postdoctoral salaries do not account for growing disparities in cost of living",
+            "journal": "Research Policy",
+            "day": 1,
+            "month": 4,
+            "year": 2023,
+            "url": "https://doi.org/10.1016/j.respol.2022.104714"
+        },
+        {
+            "authors": "Bernard Koch, Tim Sainburg, Pablo Geraldo, Song Jiang, Yizhou Sun, and Jacob Gates Foster",
+            "title": "Deep Learning of Potential Outcomes",
+            "journal": "Sociological Methods and Research",
+            "day": 9,
+            "month": 11,
+            "year": 2022,
+            "url": "https://arxiv.org/abs/2110.04442"
+        },
     ]
 }
 
