@@ -7,31 +7,22 @@
             "topic": "neurophysiology/neural data analysis"
         },
         {
-            "topic": "auditory neuroscience"
+            "topic": "sensory/motor neuroscience"
         },
         {
-            "topic": "language origins"
-        },
-        {
-            "topic": "language development"
-        },
-        {
-            "topic": "deep learning/NLP"
+            "topic": "language"
         },
         {
             "topic": "Animal cognition/communication"
         },
         {
-            "topic": "sequence models"
-        },
-        {
-            "topic": "generative models"
+            "topic": "sequence and generative models"
         },
         {
             "topic": "computational ethology"
         },
         {
-            "topic": "machine perception"
+            "topic": "machine perception & AI"
         },
         {
             "topic": "dimensionality reduction"
