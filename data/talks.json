@@ -7,12 +7,7 @@
         },
         {
             "title": "Parametric UMAP embeddings for representation and semi-supervised learning",
-            "venue": "G Research Machine Learning Seminar Series",
-            "year": 2021
-        },
-        {
-            "title": "Parametric UMAP embeddings for representation and semi-supervised learning",
-            "venue": "Tutte Institute for Mathematics and Computing",
+            "venue": "G Research Machine Learning Seminar Series, Tutte Institute for Mathematics and Computing",
             "year": 2021
         },
         {
@@ -29,6 +24,11 @@
             "title": "American postdoctoral salaries do not account for growing disparities in cost of living",
             "venue": "Boston Postdoctoral Association",
             "year": 2022
+        },
+        {
+            "title": "A computational neuroethology of vocal and motor behavior",
+            "venue": "University of Vienna, University of Bochum, Harvard University",
+            "year": 2024
         }
     ]
 }

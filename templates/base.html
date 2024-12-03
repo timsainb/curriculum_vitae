@@ -31,24 +31,6 @@
             </p>
         </div>
 
-        <h2>Education</h2>
-
-        <div class="block">
-            {% for item in education %}
-            <div class="item">
-                <div class="yearrange">{{item.start}}&#8211;{{item.end}}</div>
-                <div class="yearright">
-                    <strong>{{item.place}}</strong><br />
-                    {{item.degree}}<br />
-                    {% if item.lab %}{{item.lab}}<br />{% endif %}
-                    {% if item.title %}{{item.title}}<br />{% endif %}
-                    {% if item.degree_date %}{{item.degree_date}}<br />{% endif %}
-                    {% if item.advisor %}Advisor: {{item.advisor}}<br />{% endif %}
-                </div>
-            </div>
-            {% endfor %}
-        </div>
-
         <h2>Research Positions</h2>
 
         <div class="block">
@@ -127,8 +109,6 @@
             {% endfor %}
         </div>
 
-        
-
     
     <h2>Datasets</h2>
 
@@ -166,7 +146,6 @@
             {% endfor %}
         </div>
 
-        
 
         <h2>Invited Talks</h2>
 
@@ -233,6 +212,23 @@
             {% endfor %}
         </div>
         
+        <h2>Education</h2>
+
+        <div class="block">
+            {% for item in education %}
+            <div class="item">
+                <div class="yearrange">{{item.start}}&#8211;{{item.end}}</div>
+                <div class="yearright">
+                    <strong>{{item.place}}</strong><br />
+                    {{item.degree}}<br />
+                    {% if item.lab %}{{item.lab}}<br />{% endif %}
+                    {% if item.title %}{{item.title}}<br />{% endif %}
+                    {% if item.degree_date %}{{item.degree_date}}<br />{% endif %}
+                    {% if item.advisor %}Advisor: {{item.advisor}}<br />{% endif %}
+                </div>
+            </div>
+            {% endfor %}
+        </div>
         
         <h2>Additional Coursework</h2>
 

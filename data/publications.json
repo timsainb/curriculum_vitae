@@ -86,10 +86,19 @@
             "authors": "Bernard Koch, Tim Sainburg, Pablo Geraldo, Song Jiang, Yizhou Sun, and Jacob Gates Foster",
             "title": "Deep Learning of Potential Outcomes",
             "journal": "Sociological Methods and Research",
-            "day": 9,
-            "month": 11,
-            "year": 2022,
-            "url": "https://arxiv.org/abs/2110.04442"
+            "day": 16,
+            "month": 8,
+            "year": 2024,
+            "url": "https://doi.org/10.1177/00491241241234866"
+        },
+        {
+            "authors": "Tim Sainburg, Trevor S McPherson, Ezequiel M. Arneodo, Srihita Rudraraju, Michael Turvey, Brad Theilman,  Pablo Tostado Marcos,  Marvin Thielk, Timothy Q Gentner",
+            "title": "Expectation-driven sensory adaptations support enhanced acuity during categorical perception",
+            "journal": "Nature Neuroscience",
+            "day": 1,
+            "month": 1,
+            "year": 2025,
+            "url": "https://doi.org/10.1101/2022.04.14.488412"
         }
     ]
 }

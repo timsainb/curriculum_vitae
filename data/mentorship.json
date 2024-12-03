@@ -1,6 +1,18 @@
 {"mentorship":
     [
         {
+            "name": "Glory Kalu",
+            "description": "Northeastern COOP",
+            "project": "Computational Ethology and Neuroscience",
+            "start": 2024
+        },
+        {
+            "name": "Minea Stayman",
+            "description": "Northeastern COOP",
+            "project": "Computational Ethology and Neuroscience",
+            "start": 2024
+        },
+        {
             "name": "Jack Lovell",
             "description": "Harvard Medical School Computer Scientist",
             "project": "Computational Ethology and Neuroscience",

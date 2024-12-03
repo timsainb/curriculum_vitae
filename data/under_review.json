@@ -1,12 +1,12 @@
 {"under_review":
     [
         {
-            "authors": "Tim Sainburg, Trevor S McPherson,Ezequiel M. Arneodo, Srihita Rudraraju,  Michael Turvey, Brad Theilman,  Pablo Tostado Marcos,  Marvin Thielk, Timothy Q Gentner",
-            "title": "Context-dependent sensory modulation underlies Bayesian vocal sequence perception",
-            "journal": "bioRxiv",
-            "day": 15,
-            "month": 4,
-            "year": 2022,
+            "authors": "Tim Sainburg, Asaf Zorea",
+            "title": "Noisereduce: omain General Noise Reduction for Time Series Signals",
+            "journal": "arXiv",
+            "day": 12,
+            "month": 12,
+            "year": 2024,
             "url": " https://doi.org/10.1101/2022.04.14.488412"
         }
     ]
