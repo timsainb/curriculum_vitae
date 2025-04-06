@@ -65,9 +65,18 @@
         <div class="block">
             {% for item in publications %}
             <div class="item">
-                {{item.authors}}, <span class="papertitle">{% if item.url %}<a
-                        href="{{item.url}}">{% endif %}&#x201c;{{item.title}}&#x201d;{% if item.url %}</a>{% endif %}</span>,
+                {{item.authors}}, 
+                <span class="papertitle">
+                    {% if item.url %}
+                        <a href="{{item.url}}">&#x201c;{{item.title}}&#x201d;</a>
+                    {% else %}
+                        &#x201c;{{item.title}}&#x201d;
+                    {% endif %}
+                </span>, 
                 <i>{{item.journal}}</i>, {{item.year}}.
+                {% if item.pdf %}
+                    <a href="{{item.pdf}}" target="_blank">[PDF]</a>
+                {% endif %}
             </div>
             {% endfor %}
         </div>

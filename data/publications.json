@@ -95,10 +95,11 @@
             "authors": "Tim Sainburg, Trevor S McPherson, Ezequiel M. Arneodo, Srihita Rudraraju, Michael Turvey, Brad Theilman,  Pablo Tostado Marcos,  Marvin Thielk, Timothy Q Gentner",
             "title": "Expectation-driven sensory adaptations support enhanced acuity during categorical perception",
             "journal": "Nature Neuroscience",
-            "day": 1,
-            "month": 1,
+            "day": 13,
+            "month": 3,
             "year": 2025,
-            "url": "https://doi.org/10.1101/2022.04.14.488412"
+            "url": "https://doi.org/10.1038/s41593-025-01899-1",
+            "pdf": "https://timsainburg.com/assets/PDF/expectation-driven-sensory-adaptations-support-enhanced-acuity.pdf"
         }
     ]
 }

@@ -1,6 +1,15 @@
 {"presentations":
     [
         {
+            "authors": "Tim Sainburg, Andi Kautt, Hopi Hoekstra, Sandeep Datta",
+            "title": "Discrete actions are a unit of both behavior and evolutionary selection",
+            "venue": "Computational and Systems Neuroscience (CoSyNe)",
+            "month": 4,
+            "url":"https://www.youtube.com/live/Y8Ke6HCGqhc?si=aY2VZR-PTxFyuQvL&t=1242", 
+            "doi":"",
+            "year": 2025
+        },
+        {
             "authors": "Tim Sainburg, Anna Mai, and Timothy Q. Gentner",
             "title": "Long-range sequential dependencies precede syntactically-rich vocalizations in humans",
             "venue": "Society for the Neurobiology of Language",

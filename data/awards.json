@@ -1,6 +1,11 @@
 {"awards":
     [
-        
+        {
+            "name": "Best Abstract Award",
+            "venue": "Computational and Systems Neuroscience (CoSyNe)",
+            "year": 2025,
+            "value": "$100"
+        },
         {
             "name": "Leonard and Isabelle Goldenson Fellow",
             "venue": "Harvard Medical School",
